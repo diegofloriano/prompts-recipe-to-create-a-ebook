@@ -46,13 +46,9 @@ Midjourney：
     &nbsp&nbsp&nbsp
     <a href="https://github.com/diegofloriano">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/diego-floriano">LinkedIn</a>
+    <a href="www.linkedin.com/in/diego-floriano/">LinkedIn</a>
 &nbsp;|&nbsp;
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
