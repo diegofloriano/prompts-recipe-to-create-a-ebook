@@ -42,18 +42,12 @@ Midjourney：
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspDiego Floriano<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/diegofloriano">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+diego-floriano">LinkedIn</a>
 &nbsp;|&nbsp;
 &nbsp;|&nbsp;</p>
 </p>
