@@ -1,12 +1,12 @@
 
-# Projeto EBOOK Gerado por I.A.s
+# AI-Generated EBOOK Project
 
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Project aimed at creating a digital eBook using the capabilities of AI tools.
+All prompts used are listed below.
 
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Technologies used in this project
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
