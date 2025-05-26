@@ -42,13 +42,12 @@ Midjourney：
 ## 👨‍💻 Author
 
 <p>
-    <p>&nbsp&nbsp&nbspDiego Floriano<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/diegofloriano">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/diego-floriano/">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
+    <p>
+    &nbsp;&nbsp;&nbsp;Diego Floriano<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/diegofloriano">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/diego-floriano/">LinkedIn</a>
+</p>
 </p>
 <br/><br/>
 <p>
